@@ -1,0 +1,25 @@
+{
+    "name": "adyukas/php-mvc",
+    "description": "learn MVC with php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Adyukas\\PhpMvc\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Adyukas\\PhpMvc\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aditya wahyu",
+            "email": "aditya.why.why@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8"
+    }
+
+}
