@@ -4,12 +4,12 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Adyukas\\PhpMvc\\": "src/"
+            "Adyukas\\PhpMvc\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Adyukas\\PhpMvc\\": "test/"
+            "Adyukas\\PhpMvc\\": "test"
         }
     },
     "authors": [
